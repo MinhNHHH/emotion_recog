@@ -18,7 +18,7 @@ This project emotion recognition. Address 2 problems face detection and emotion 
   * Download the FER-2013 dataset from [here](https://drive.google.com/file/d/1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr/view?usp=sharing)
   * Label
   ```bash
-  Labeldataforface.ipynb -- Use OpenCV to label and convert to json file.
+  Labeldataforface.ipynb -- Use OpenCV to label and zip to json file.
   ```
   * Training model face detection
   ```bash
